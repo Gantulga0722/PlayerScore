@@ -1,0 +1,18 @@
+.card {
+  display: flex;
+  padding: 16px 0px;
+  align-items: center;
+  gap: 8px;
+  align-self: stretch;
+  justify-content: space-between;
+  font-family: "Roboto", sans-serif;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+}
+.player {
+  color: #000;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  font-family: "Roboto", sans-serif;
+}

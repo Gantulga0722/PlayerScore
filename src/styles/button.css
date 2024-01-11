@@ -1,0 +1,32 @@
+.plus_btn {
+  display: inline-flex;
+  padding: 10px;
+  align-items: center;
+  gap: 8px;
+  border-radius: 1000px;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  background: #fff;
+}
+.minus_btn {
+  display: inline-flex;
+  padding: 10px;
+  align-items: center;
+  gap: 8px;
+  border-radius: 1000px;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  background: #fff;
+}
+.reset_btn {
+  display: flex;
+  width: 120px;
+  padding: 16px;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+  border-radius: 8px;
+  background: #14b166;
+  border: none;
+  font-family: "Roboto", sans-serif;
+  color: white;
+  font-size: 18px;
+}
