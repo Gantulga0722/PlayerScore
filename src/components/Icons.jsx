@@ -28,20 +28,20 @@ export function PlusIcon() {
       fill="none"
       className="plusIcon"
     >
-      <g clip-path="url(#clip0_12_95)">
+      <g clipPath="url(#clip0_12_95)">
         <path
           d="M10 4.16667V15.8333"
           stroke="black"
-          stroke-width="1.5"
-          stroke-linecap="round"
-          stroke-linejoin="round"
+          strokeWidth="1.5"
+          strokeLinecap="round"
+          strokeLinejoin="round"
         />
         <path
           d="M4.1665 10H15.8332"
           stroke="black"
-          stroke-width="1.5"
-          stroke-linecap="round"
-          stroke-linejoin="round"
+          strokeWidth="1.5"
+          strokeLinecap="round"
+          strokeLinejoin="round"
         />
       </g>
       <defs>
@@ -63,13 +63,13 @@ export function MinusIcon() {
       fill="none"
       className="minusIcon"
     >
-      <g clip-path="url(#clip0_116_5)">
+      <g clipPath="url(#clip0_116_5)">
         <path
           d="M4.1665 10H15.8332"
           stroke="black"
-          stroke-width="1.5"
-          stroke-linecap="round"
-          stroke-linejoin="round"
+          strokeWidth="1.5"
+          strokeLinecap="round"
+          strokeLinejoin="round"
         />
       </g>
       <defs>
